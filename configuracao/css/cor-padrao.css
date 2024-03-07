@@ -1,9 +1,9 @@
 :root {
-  --cor-primaria: #f03421;
-  --cor-secundaria: #404146;
-  --cor-botao-acao: #f03421;
+  --cor-primaria: #f66d00;
+  --cor-secundaria: #534e4e;
+  --cor-botao-acao: #f66d00;
   --cor-fundo-header: #FFFFFF;
-  --cor-letra-menu: #404146;
+  --cor-letra-menu: #534e4e;
 }
 #redes-sociais li div {
   background-color: #FFFFFF;
