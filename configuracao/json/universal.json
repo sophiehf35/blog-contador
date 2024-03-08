@@ -1,5 +1,5 @@
 {
-  "id": 957143673204132,
+  "id": 609731093938192,
   "nome_do_site": "Blog Contador",
   "nome_do_logo": "logo-contador-de-visitas",
   "autor_padrao": "Contador de Visitas",
@@ -20,7 +20,7 @@
   "botao_superior_direito": 0,
   "exibe_categorias_de_artigos": 0,
   "possui_google_analytics": 1,
-  "codigo_google_analytics": "",
+  "codigo_google_analytics": "G-QP7HW3N2X6",
   "possui_google_adsense": 0,
   "codigo_google_adsense": "",
   "possui_clarity": 0,
