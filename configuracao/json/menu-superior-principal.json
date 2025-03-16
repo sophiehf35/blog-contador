@@ -11,6 +11,7 @@
         {"nome":"Seguros Caixa", "slug":"/seguros-caixa/"},
         {"nome":"Site da caixa", "slug":"/site-da-caixa/"},
         {"nome":"Aplicativo da caixa", "slug":"/aplicativo-da-caixa/"},
+        {"nome":"DPVAT", "slug":"/dpvat/"},
         {"nome":"DPVAT", "slug":"/dpvat/"}
     ], "megaMenu": true},
     {"nome":"ARTIGOS DE BENEFÍCIOS DO TRABALHADOR", "slug":"#", "submenu":[
