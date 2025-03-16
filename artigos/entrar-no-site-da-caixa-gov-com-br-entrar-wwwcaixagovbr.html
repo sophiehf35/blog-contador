@@ -122,13 +122,13 @@
                                  <div class="row g-3">
                                     <div class="col-md-6">
                                        <div class="form-floating">
-                                          <input type="text" class="form-control" id="nome" placeholder="Insira seu Nome" maxlength="35" oninput="let p=this.selectionStart;this.value=this.value.toLowerCase();">
+                                          <input type="text" class="form-control" id="nome" placeholder="Insira seu Nome" maxlength="35">
                                           <label for="nome">Insira seu Nome</label>
                                        </div>
                                     </div>
                                     <div class="col-md-6">
                                        <div class="form-floating">
-                                          <input type="email" class="form-control" id="email" placeholder="Insira seu Email" maxlength="200" oninput="let p=this.selectionStart;this.value=this.value.toLowerCase();">
+                                          <input type="email" class="form-control" id="email" placeholder="Insira seu Email" maxlength="200">
                                           <label for="email">Insira seu Email</label>
                                        </div>
                                     </div>
@@ -157,7 +157,7 @@
                                     </div>
                                     <div class="col-md-12">
                                        <div class="form-floating">
-                                          <textarea style="height:130px;" class="form-control" placeholder="Insira seu Comentário*" id="mensagem" oninput="let p=this.selectionStart;this.value=this.value.toLowerCase();" maxlength="1000"></textarea>
+                                          <textarea style="height:130px;" class="form-control" placeholder="Insira seu Comentário*" id="mensagem" maxlength="1000"></textarea>
                                           <label for="mensagem">Insira seu Comentário*</label>
                                        </div>
                                     </div>
@@ -199,9 +199,6 @@
          </main>
       </div>
       <div id="toTop"></div>
-      <!-- PLUGINS -->
-      <script type="text/javascript" language="javascript" src="//cdn.jsdelivr.net/npm/sweetalert2@10" defer></script>
-      <!-- PLUGINS -->
       <!-- SCRIPTS BASE -->
       <script type="text/javascript" language="javascript" src="/assets/js/bootstrap.bundle.min.js" defer></script>
       <script type="text/javascript" language="javascript" src="/assets/js/intersection-observer.js" defer></script>
