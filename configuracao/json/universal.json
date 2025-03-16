@@ -54,8 +54,26 @@
   },
   "paginas_categorias": {
     "slugs": [
-      "artigos",
-      "noticias"
+      "cartoes-caixa",
+      "contas-caixa",
+      "emprestimos-caixa",
+      "financiamentos-caixa",
+      "investimentos-caixa",
+      "loterias-caixa",
+      "consorcios-caixa",
+      "seguros-caixa",
+      "previdencia-caixa",
+      "site-da-caixa",
+      "aplicativo-da-caixa",
+      "dpvat",
+      "abono-salarial",
+      "fgts",
+      "inss",
+      "seguro-desemprego",
+      "bolsa-familia",
+      "fies",
+      "minha-casa-minha-vida",
+      "assuntos-gerais"
     ]
   }
 }
