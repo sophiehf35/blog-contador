@@ -43,11 +43,83 @@
     ],
     "meta_titulo_padrao": "| Confira artigos e tutoriais sobre a caixa",
     "meta_descricao_padrao": "| artigos com dicas sobre a caixa economica ✔️ dicas da caixa ✔️ www caixa ✔️ artigos da caixa ✔️ noticias da caixa",
-    "artigos": {
+    "cartoes-caixa": {
       "meta_titulo": "Artigos sobre a Caixa Econômica | Confira dicas e tutoriais da caixa",
       "meta_descricao": "Artigos sobre a caixa econômica artigos com dicas sobre banco caixa ✔️ dicas da caixa ✔️ www caixa ✔️ artigos da caixa ✔️ caixa econômica federal"
     },
-    "noticias": {
+    "contas-caixa": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "emprestimos-caixa": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "financiamentos-caixa": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "investimentos-caixa": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "loterias-caixa": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "consorcios-caixa": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "seguros-caixa": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "previdencia-caixa": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "site-da-caixa": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "aplicativo-da-caixa": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "dpvat": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "abono-salarial": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "fgts": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "inss": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "seguro-desemprego": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "bolsa-familia": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "fies": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "minha-casa-minha-vida": {
+      "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
+      "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
+    },
+    "assuntos-gerais": {
       "meta_titulo": "Notícias sobre a Caixa Econômica Federal - últimas notícias",
       "meta_descricao": "Notícias sobre caixa econômica federal ✔️ notícias atualizadas ✔️ notícias do app da caixa ✔️ novidades da caixa ✔️ notícias do banco caixa"
     }
