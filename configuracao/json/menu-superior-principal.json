@@ -1,1 +1,30 @@
-[{"nome":"HOME","slug":"\/"},{"nome":"ARTIGOS","slug":"\/artigos\/"}]
+[
+    {"nome":"HOME", "slug":"/"},
+    {"nome":"ARTIGOS DE PRODUTOS", "slug":"#", "submenu":[
+        {"nome":"Cartões Caixa", "slug":"/cartoes-caixa/"},
+        {"nome":"Contas Caixa", "slug":"/contas-caixa/"},
+        {"nome":"Empréstimo Caixa", "slug":"/emprestimo-caixa/"},
+        {"nome":"Financiamento Caixa", "slug":"/financiamento-caixa/"},
+        {"nome":"Investimentos Caixa", "slug":"/investimentos-caixa/"},
+        {"nome":"Loterias Caixa", "slug":"/loterias-caixa/"},
+        {"nome":"Consórcio Caixa", "slug":"/consorcio-caixa/"},
+        {"nome":"Seguros Caixa", "slug":"/seguros-caixa/"}
+    ], "megaMenu": true},
+    {"nome":"ARTIGOS DE SERVIÇOS", "slug":"#", "submenu":[
+        {"nome":"Site da caixa", "slug":"/site-da-caixa/"},
+        {"nome":"Aplicativo da caixa", "slug":"/aplicativo-da-caixa/"},
+        {"nome":"DPVAT", "slug":"/dpvat/"}
+    ]},
+    {"nome":"ARTIGOS DE BENEFÍCIOS DO TRABALHADOR", "slug":"#", "submenu":[
+        {"nome":"Abono Salarial", "slug":"/abono-salarial/"},
+        {"nome":"FGTS", "slug":"/fgts/"},
+        {"nome":"INSS", "slug":"/inss/"},
+        {"nome":"Seguro Desemprego", "slug":"/seguro-desemprego/"}
+    ]},
+    {"nome":"ARTIGOS DE PROGRAMAS SOCIAIS", "slug":"#", "submenu":[
+        {"nome":"Bolsa Família", "slug":"/bolsa-familia/"},
+        {"nome":"FIES", "slug":"/fies/"},
+        {"nome":"Minha Casa Minha Vida", "slug":"/minha-casa-minha-vida/"}
+    ]},
+    {"nome":"ASSUNTOS GERAIS", "slug":"/assuntos-gerais/"}
+]
