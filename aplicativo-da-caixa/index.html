@@ -56,7 +56,7 @@
          </header>
          <div class="sub_header_in">
             <div style="text-align: center;" class="container-fluid">
-               <h1>Artigos do aplicativo da caixa | Confira dicas, tutoriais e noticias</h1>
+               <h1>Aplicativo da caixa veja artigos | Confira dicas, tutoriais e noticias</h1>
             </div>
             <div class="bc-icons-2">
                <ol style="background-color: unset; margin-bottom: 0px;" class="breadcrumb lighten-4 justify-content-center" itemscope itemtype="https://schema.org/BreadcrumbList">
@@ -73,7 +73,23 @@
             </div>
          </div>
          <main>
-            <div class="container-xxl margin_60_35">
+            <div class="container-xxl mt-4">
+               <div class="col-md-12 mb-3">
+                  <div class="accordion" id="accordionCategoria">
+                     <div class="accordion-item">
+                        <h2 class="accordion-header">
+                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordion1" aria-expanded="false" aria-controls="accordion1">
+                              Aplicativo da caixa
+                           </button>
+                        </h2>
+                        <div id="accordion1" class="accordion-collapse collapse" data-bs-parent="#accordionCategoria">
+                           <div class="accordion-body">
+                              <p></p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
                <div class="row">
                   <div class="col-xl-8 col-lg-8 col-md-7 col-sm-12">
                      <div id="cardHorizontalDeArtigos"></div>
@@ -82,9 +98,9 @@
                   <aside class="col-xl-4 col-lg-4 col-md-5">
                      <div class="box_detail widget">
                         <div class="titulo_secao">
-                           <h3 class="titulo">ANÚNCIO</h3>
+                           <h3 class="titulo">ARTIGOS</h3>
                         </div>
-                        <div class="secao_lista_de_categorias conteudo_secao_sidebar"></div>
+                        <div id="divTabelaArtigosCategoria" class="conteudo_secao_sidebar"></div>
                      </div>
                   </aside>
                </div>
